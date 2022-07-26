@@ -1,4 +1,5 @@
 'reinit'
+*test github
 
 iv=1 ; ivmax=1
 while(iv<=ivmax)
